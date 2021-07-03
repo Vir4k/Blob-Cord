@@ -1,6 +1,6 @@
 {
-    "token": "",
-    "prefix": "",
-    "owners": ["", ""],
-    "google": ""
+    "token": "SUPER_SECRET_KEY", // bot token
+    "prefix": "!", // you can change it
+    "owners": ["YOU", "YOUR_FRIEND"], // owner (developers's id)
+    "google": "" // get from https://console.google.com
 }
