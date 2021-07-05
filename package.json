@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "alexa-bot-api": "^0.1.4",
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "canvacord": "^4.0.1",
     "canvas": "^2.6.1",
     "child_process": "^1.0.2",
